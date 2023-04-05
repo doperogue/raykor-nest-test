@@ -1,0 +1,4 @@
+{
+    "APP_PORT": 3050,
+    "JOKES_API": "https://api.chucknorris.io/jokes/random"
+}
